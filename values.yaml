@@ -5,7 +5,7 @@
 replicaCount: 2
 namespace: default
 image:
-  repository: curhvyn/reverse_ip
+  repository: curhvyn/reversed-ip
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v4"
